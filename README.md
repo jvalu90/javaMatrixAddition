@@ -1,6 +1,6 @@
 ## Sum of Two Matrix with Java
 
-This project creates two nxn arrays and add their values, the results should be stored in another array. The values and length, will be inserted by the user. Shows the original arrays and the result.
+This project creates two mxm arrays and add their values, the results should be stored in another array. The values and length, will be inserted by the user. Shows the original arrays and the result.
 
 ## Folder Structure
 
